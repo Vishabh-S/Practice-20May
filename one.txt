@@ -70,3 +70,34 @@ git rebase master
 
 
 12) git branch -m main
+
+
+
+
+
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+llllllllllllllllllllllllll
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ppppppppppppppppppppppppppppppppppppppppppppppppppppp
