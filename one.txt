@@ -1,0 +1,72 @@
+
+
+1) How do you check the current Git configuration?
+
+git config --list
+
+
+2) What is a commit in Git?
+
+A commit is a snapshot of the changes in the code at a given point of time. Each commit has a unique ID/SHA hash.
+
+
+3) How do you create a new Git repository?
+
+enter inside the local folder > cd one
+                              > one> git init
+Initialize a new local repository
+
+
+
+4) How do you clone a repository from GitHub?
+
+git clone https://github.com/username/repo.git
+After doing this , one folder will create in local repo i.e. folder one or two.
+
+
+
+5) Explain the difference between "git pull" and "git fetch".
+
+git fetch: Retrieves changes from the remote but doesn’t merge them.
+git pull: Fetches and merges changes into the current branch.
+
+
+
+6) How do you stage and commit a file in Git.
+
+git add . /  filename        # Stage the file
+git commit -m "Message" # Commit with a message
+
+
+
+7) What is a pull request (PR) on GitHub.
+
+A pull request is a GitHub feature used to propose changes from one branch to another, typically for code review and collaboration before merging.
+
+
+8) What is .gitignore.
+
+A .gitignore` file specifies files and directories that should be ignored by Git (i.e., not tracked or committed).
+
+
+
+9) What is the difference between "git reset", "git revert" and "git checkout".
+
+* git reset: Moves the current branch to a different commit (can delete commits).
+* git revert: Creates a new commit that undoes changes from a previous commit.
+* git checkout: Switches branches or restores working directory files.
+
+
+
+10) What is a fork in GitHub.
+
+A fork is a personal copy of another user's repository. It allows you to freely experiment without affecting the original project.
+
+
+11) How do you rebase a branch in Git.
+
+git checkout/switch sub-branch
+git rebase master
+
+
+12) git branch -m main
